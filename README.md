@@ -1,6 +1,10 @@
 [![MasterHead](https://github.com/AntoineROYERB/AntoineROYERB/blob/main/header.png)](https://github.com/AntoineROYERB)
 
-<h3 align="center">A junior developer from France</h3>
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 about to become a software developer
+- 💼 Currently finishing my master's degree at EPF School of Engineering [<img src="" height='30em' align='center' alt='EPF Logo' title='EPF Logo'/>](https://www.epf.fr).
+- 🎓 Studying Computer Science and Software Development
+- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Ubuntu [<img src="" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://ubuntu.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
