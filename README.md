@@ -6,7 +6,7 @@
 - 💼 Currently finishing my master's degree at EPF School of Engineering
   [<img src="img/logoEPF.png" alt="EPF" height="30em"/>](https://www.epf.fr)
 - 🎓 Studying Computer Science and Software Development
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 Ubuntu  [<img src="img/logoUbuntu.svg" height="30em" alt="Ubuntu Logo"/>](https://ubuntu.com)
+- btw I use Ubuntu  [<img src="img/logoUbuntu.svg" height="30em" alt="Ubuntu Logo"/>](https://ubuntu.com)
 
 
 <h3 align="left">Connect with me:</h3>
