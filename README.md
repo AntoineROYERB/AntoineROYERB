@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="img/logoLinkedin.svg" alt="My Linkedin" height="40" align="center" />](www.linkedin.com/in/antoine-royer-bournelle)
+[<img src="img/logoLinkedin.svg" alt="My Linkedin" height="40" align="center" />](https://linkedin.com/in/antoine-royer-bournelle)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
