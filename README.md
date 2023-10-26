@@ -1,18 +1,15 @@
 ![Alt text](/img/header.png "header")
 
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: About me
 - 🖥 about to become a software developer
-- 💼 Currently finishing my master's degree at EPF School of Engineering
-  [<img src="img/logoEPF.png" alt="EPF" align="center" height="30em"/>](https://www.epf.fr)
+- 💼 Currently finishing my master's degree at EPF School of Engineering [<img src="img/logoEPF.png" alt="EPF" align="center" height="30em"/>](https://www.epf.fr)
 - 🎓 Studying Computer Science and Software Development
 - btw I use Ubuntu  [<img src="img/logoUbuntu.svg" height="30em" align="center" alt="Ubuntu Logo"/>](https://ubuntu.com)
 
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/antoine-royer-bournelle" target="blank"><img align="center" src="img/logoLinkedin.svg" alt="My Linkedin" height="40"/></a>
-</p>
+
+[<img src="img/logoLinkedin.svg" alt="My Linkedin" height="40" align="center" />](www.linkedin.com/in/antoine-royer-bournelle)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
