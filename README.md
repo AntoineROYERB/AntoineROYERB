@@ -2,9 +2,9 @@
 
 
 ## :book: About me
-- 🖥 about to become a software developer
-- 💼 Currently finishing my master's degree at EPF School of Engineering [<img src="img/logoEPF.png" alt="EPF" align="center" height="30em"/>](https://www.epf.fr)
-- 🎓 Studying Computer Science and Software Development
+- 🖥 Software developer
+- 💼 Master's degree at EPF School of Engineering [<img src="img/logoEPF.png" alt="EPF" align="center" height="30em"/>](https://www.epf.fr)
+- 🎓 Studying Computer Science, data and Software Development
 - btw I use Ubuntu  [<img src="img/logoUbuntu.svg" height="30em" align="center" alt="Ubuntu Logo"/>](https://ubuntu.com)
 
 <h3 align="left">Connect with me:</h3>
