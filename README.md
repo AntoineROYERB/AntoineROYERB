@@ -1,25 +1,32 @@
 ![Alt text](/img/header.png "header")
 
-I’m a **Builder** passionate about creating things — from **data platforms** to **full-stack applications**.  
-I enjoy turning ideas into scalable solutions, whether it’s **ETL pipelines**, **dashboards**, or **side projects with React & Go**.  
+### Hi, I'm Antoine 👋
 
-🚀 What I’m working on:  
-- Building modular **data pipelines** with Python, SQL, and Mage  
-- Deploying infrastructures with **Docker, GCP, PostgreSQL, and S3**  
-- Supporting teams with **Looker and Superset dashboards**  
-- Developing side projects like **dofus.js** (Go + React + WebSockets)  
+I'm a **builder** — I like creating things from the ground up, from data platforms to full-stack side projects. I build ETL pipelines end-to-end — from ingestion to the BI layer — and I'm just as happy working close to the metal on infrastructure (Docker, GCP, orchestration) as I am shipping a game backend in Go or a React frontend.
 
-Some of my projects:  
-- 🧩 **ETL Pipelines** — automated ingestion & enrichment of institutional datasets  
-- ⚡ **Bit Stradamus** — backend project integrating ML models with Node.js & Python  
-- 🔧 **DevOps Project** — full-stack app deployed with Docker, GitHub Actions, and Ansible  
-- 🥚 **dofus.js** *(WIP)* — scalable WebSocket infra in Go with a React front  
+I've shipped pipelines and platform features in production at **SIRIS Academic** (Barcelona) and **Dataiku** (Paris), and I keep a handful of side projects running for the fun of building.
+
+📄 **More on what I've built:** [antoineroyerb.github.io](https://antoineroyerb.github.io/)
+
+---
+
+🚀 What I'm building:
+- Modular **ETL pipelines** in Python, orchestrated with **Mage**
+- Deploying infrastructures with **Docker, GCP, PostgreSQL, and S3**
+- **Looker** and **Apache Superset** dashboards for cross-functional analytics
+- **HuggingFace** NLP models integrated into production pipelines
+
+🛠️ Some projects:
+- 📈 **Polymarket Smart Money Tracker** — a data platform identifying top-performing prediction-market traders: Mage-orchestrated ETL into a 16-table Postgres schema, a FastAPI backend (REST/WebSocket), an edge-scoring pipeline, and Discord alerts
+- 🥚 **[dofus.js](https://github.com/AntoineROYERB/dofus.js)** — a turn-based online game with WebSocket real-time multiplayer, Go backend + isometric React frontend
+- 🔧 **[DevOps](https://github.com/AntoineROYERB/DevOps)** — full-stack application deployed with Docker, GitHub Actions, and Ansible
+- 🔢 **[Sorting Visualizer](https://github.com/AntoineROYERB/sorting-algorithms-visualizer)** — interactive visualization of sorting algorithms in TypeScript
 
 ---
 
 <h3 align="left">🌐 Connect with me</h3>
 
-[<img src="img/logoLinkedin.svg" alt="My Linkedin" height="40" align="center" />](https://linkedin.com/in/antoine-royer-bournelle)
+[<img src="img/logoLinkedin.svg" alt="My Linkedin" height="40" align="center" />](https://www.linkedin.com/in/antoine-royer-bournelle/)
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="My Github" height="40" align="center" />](https://github.com/AntoineROYERB)
 
 ---
