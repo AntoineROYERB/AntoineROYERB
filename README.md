@@ -11,8 +11,6 @@ I enjoy turning ideas into scalable solutions, whether it’s **ETL pipelines**,
 
 Some of my projects:  
 - 🧩 **ETL Pipelines** — automated ingestion & enrichment of institutional datasets  
-- ⚡ **Bit Stradamus** — backend project integrating ML models with Node.js & Python  
-- 🔧 **DevOps Project** — full-stack app deployed with Docker, GitHub Actions, and Ansible  
 - 🥚 **dofus.js** *(WIP)* — scalable WebSocket infra in Go with a React front  
 
 ---
